@@ -1,4 +1,5 @@
 # 'pdf2docx' kütüphanesinden 'Converter' sınıfını içe aktarıyorum.
+
 from pdf2docx import Converter  
 
 
